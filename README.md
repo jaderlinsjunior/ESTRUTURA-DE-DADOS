@@ -3,7 +3,7 @@ ESTRUTURA-DE-DADOS
 
 SISTEMAS DE INFORMAÇÃO
 
-//Inicio//
+//INÍCIO//
 
 #include <stdlib.h>
 #include <iostream>
