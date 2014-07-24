@@ -5,9 +5,9 @@ SISTEMAS DE INFORMAÇÃO
 
 //Inicio//
 
-//#include <stdlib.h>
-//#include <iostream>
-//#include <time.h>
+#include <stdlib.h>
+#include <iostream>
+#include <time.h>
 
 using namespace std;
 int const alunos = 15, nota = 4;
