@@ -16,6 +16,8 @@ struct Aluno{
        float notas[nota], media;
        string status;
 };
+
+
 Aluno aluno1;
 
 void mostrar_aluno();
@@ -37,6 +39,8 @@ int main(){
     system("PAUSE>null");
     return 0;
 }
+
+
 void carrega_aluno(){
      float soma = 0;
      for(int i = 0;i < nota;i++){
@@ -51,6 +55,8 @@ void carrega_aluno(){
      }
      mostrar_aluno();
 }
+
+
 void mostrar_aluno(){
      
      cout << aluno1.mat << "\t";
